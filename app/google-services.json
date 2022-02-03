@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208213506254",
+    "project_id": "pnchayt-ae54d",
+    "storage_bucket": "pnchayt-ae54d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208213506254:android:9e5bef543a0c049d42f89f",
+        "android_client_info": {
+          "package_name": "com.example.pnchayt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208213506254-b2i4j5ce2ocm9mbk6bda9eu1ji7lka96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gIYaiiPkBZaSJoFpTo5Rbfqd4vGxaqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208213506254-b2i4j5ce2ocm9mbk6bda9eu1ji7lka96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
